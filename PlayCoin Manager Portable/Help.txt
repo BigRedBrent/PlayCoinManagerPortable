@@ -24,9 +24,4 @@ To use the locally installed PlayCoin Manager, select no when prompted to copy t
 To copy the PlayCoin Manager to the portable folder after originally selecting not to,  
 simply delete the "PlayCoin Manager" folder and run this script again.
 
-You may put SkyVault png files in the portable folder, and when you run the script,  
-it will move the png files to the correct portable settings location for you.  
-This is for those who have downloaded passkeys after creating SkyVault addresses from the SkyVault.cc website,  
-and would like to easily import them to be used with PlayCoin Manager Portable.
-
 After the PlayCoin Manager is installed, run: "Start PlayCoin Manager Portable.cmd"
